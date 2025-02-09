@@ -61,7 +61,7 @@ Software
 - Compilador C compatível (como GCC);
 - Ferramentas para upload do código para o Pico (VSCode e extensões do Raspberry Pi Pico).
 
-## LINK DO REPOSITÓRIO GITHUB: 
+## Link do repositório Git Hub: https://github.com/joelson-santana22/Comunicao-Serial-RP2040-BitDogLab.git 
 
-## Link do vídeo desmonstrativo: 
+## Link para o vídeo desmonstrativo: https://drive.google.com/drive/folders/1zHN2uS_fAlJFTZml5L6yQcZvUDiLMHp-?usp=sharing
 ____________________________________________________________________________________________________________________________________
